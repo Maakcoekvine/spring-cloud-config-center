@@ -1,4 +1,0 @@
-spring:
-	application:
-		username: prod
-		password: 1234
