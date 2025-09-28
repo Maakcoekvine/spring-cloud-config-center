@@ -1,4 +1,4 @@
-my-db-config:
-	name: abc
-	password: 123
-	env: dev
+spring:
+	application:
+		username: dev
+		password: 1234
