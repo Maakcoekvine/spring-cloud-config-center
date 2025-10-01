@@ -1,4 +1,3 @@
 spring:
-	application:
-		username: prod
-		password: 1234
+  application:
+    name: config-center-prod
